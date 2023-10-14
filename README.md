@@ -20,11 +20,6 @@ Sou um Analista de Sistemas apaixonado por tecnologia e sempre buscando aprender
 - [Web Cadastro e Login Responsivo com Dashboard de Usuários](https://github.com/weiner-rezcue98/web-cadastro-login-responsivo): Projeto de web-register, web-login com conexão de banco de dados.
 - [Tutorial PHP](https://github.com/weiner-rezcue98/tutorial-php): Neste tutorial, você aprenderá a criar um sistema com PHP e MySQL.
 
-<!-- Estatísticas do GitHub -->
-## Estatísticas do GitHub
-
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=weiner-rezcue98&show_icons=true&theme=radical&locale=pt-br)](https://github.com/weiner-rezcue98)
-
 <!-- Linguagens de Programação -->
 ## Linguagens de Programação
 
