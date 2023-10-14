@@ -23,12 +23,12 @@ Sou um Analista de Sistemas apaixonado por tecnologia e sempre buscando aprender
 <!-- Estatísticas do GitHub -->
 ## Estatísticas do GitHub
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=weiner-rezcue98&show_icons=true&theme=radical&locale=pt)](https://github.com/weiner-rezcue98)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=weiner-rezcue98&show_icons=true&theme=radical&locale=pt-br)](https://github.com/weiner-rezcue98)
 
 <!-- Linguagens de Programação -->
 ## Linguagens de Programação
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=weiner-rezcue98&layout=compact&theme=radical&locale=pt)](https://github.com/weiner-rezcue98)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=weiner-rezcue98&layout=compact&theme=radical&locale=pt-br)](https://github.com/weiner-rezcue98)
 
 
 <!-- Rodapé -->
