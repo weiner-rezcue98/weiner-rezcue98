@@ -18,9 +18,12 @@ Sou um Analista de Sistemas apaixonado por tecnologia e sempre buscando aprender
 - [Tutorial PHP](https://github.com/weiner-rezcue98/tutorial-php): Neste tutorial, você aprenderá a criar um sistema com PHP e MySQL.
 
 <!-- Linguagens de Programação -->
+##
+
 ## Linguagens de Programação
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=weiner-rezcue98&layout=compact&theme=radical&locale=pt-br)](https://github.com/weiner-rezcue98)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weiner-rezcue98&layout=donut-vertical&locale=pt-br)](https://github.com/weiner-rezcue98)
 
 
 <!-- Rodapé -->
