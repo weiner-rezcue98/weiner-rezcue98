@@ -1,9 +1,6 @@
 <!-- Pedro Weiner -->
 # Pedro Weiner
 
-<!-- Título ou Slogan Pessoal -->
-Analista de Sistemas | Apaixonado por Tecnologia
-
 <!-- Ícones e Links para Mídias Sociais -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/weiner-rezcue98)
@@ -31,4 +28,4 @@ Sou um Analista de Sistemas apaixonado por tecnologia e sempre buscando aprender
 E-mail: pedroweiner@hotmail.com
 Você pode me encontrar em várias plataformas online. Fique à vontade para entrar em contato.
 
-Feito com ❤️ e ☕ por Pedro
+Feito com muito ☕
