@@ -8,7 +8,7 @@
 ![Banner](inserir_url_da_imagem_aqui)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=weiner-rezcue98&show_icons=true&count_private=true&theme=dracula&locale=pt" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-stats.vercel.app/api?username=weiner-rezcue98&show_icons=true&count_private=true&theme=dracula&locale=pt-br" alt="Estatísticas do GitHub">
 </div>
 
 ---
