@@ -1,11 +1,11 @@
 <!-- Seu Nome -->
-# Pedro Weiner 👋
+# Pedro Weiner
 
 <!-- Seu Título ou Ocupação -->
 ## ADS e Desenvolvedor Web
 
 <!-- Slide de Imagens como Flyer do Perfil -->
-![Banner](https://media.discordapp.net/attachments/1162859199127109635/1163304765233574008/Wms.png?ex=653f16fd&is=652ca1fd&hm=581dac568618438c1c3773f34a1adaddf579e9879f1f4f8765d11dc1d0678a80&=&width=511&height=627)
+![Banner](https://media.discordapp.net/attachments/1162859199127109635/1163305426243297380/Sem_Titulo-2.png?ex=653f179a&is=652ca29a&hm=d8625410e37b77ec99bd722149fd0bf61afe802fa8bdf4a095dd112a5d12d100&=)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=weiner-rezcue98&show_icons=true&count_private=true&theme=dracula" alt="Estatísticas do GitHub">
