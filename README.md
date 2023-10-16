@@ -6,7 +6,7 @@
 
 <!-- Slide de Imagens como Flyer do Perfil -->
 <div align="center">
- <img src="https://media.discordapp.net/attachments/1162859199127109635/1163305426243297380/Sem_Titulo-2.png?ex=653f179a&is=652ca29a&hm=d8625410e37b77ec99bd722149fd0bf61afe802fa8bdf4a095dd112a5d12d100&=">
+ <img src="https://media.discordapp.net/attachments/1162859199127109635/1163308127421222984/Sem_Titulo-2.png?ex=653f1a1e&is=652ca51e&hm=283e05eb3a98d22f64e9cfa1b87a4dce48c3059e7a0ae1e3003ebee1ec1fd030&=">
 </div>
 
 <div align="center">
