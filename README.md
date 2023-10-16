@@ -17,7 +17,6 @@
 
 Sou um analista de sistemas e desenvolvedor web apaixonado por criar soluções eficientes e elegantes. Desde então, tenho trabalhado em uma variedade de projetos, desde desenvolvimento de aplicativos web até otimização de sistemas existentes. Meu perfil da Github é novo, está aberto apenas para material de estudos e apoio
 
-Quando não estou codificando, estou [inserir algo interessante sobre você, como seus hobbies, interesses ou atividades fora do trabalho].
 
 ---
 
@@ -30,8 +29,6 @@ Aqui estão alguns dos meus projetos mais notáveis:
 [![Nome do Projeto 2](inserir_url_da_imagem_do_projeto_2)](inserir_link_do_projeto_2)
 [![Nome do Projeto 3](inserir_url_da_imagem_do_projeto_3)](inserir_link_do_projeto_3)
 
-Veja todos os meus repositórios [aqui](inserir_link_para_seu_perfil_no_GitHub).
-
 ---
 
 ### Linguagens Mais Usadas
@@ -42,7 +39,7 @@ Aqui estão algumas das linguagens que mais utilizo:
 [![JavaScript](https://img.shields.io/badge/JavaScript-50%25-yellow)](https://javascript.com)
 [![Python](https://img.shields.io/badge/Python-30%25-blue)](https://python.org)
 [![Java](https://img.shields.io/badge/Java-15%25-red)](https://java.com)
-[![Outras Linguagens](https://img.shields.io/badge/Outras-5%25-lightgrey)](https://github.com/seu_usuario)
+[![Outras Linguagens](https://img.shields.io/badge/Outras-5%25-lightgrey)](https://github.com/weiner-rezcue98)
 
 ---
 
@@ -50,8 +47,8 @@ Aqui estão algumas das linguagens que mais utilizo:
 
 Você pode entrar em contato comigo através das seguintes redes sociais e plataformas:
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](inserir_link_para_seu_perfil_no_LinkedIn)
-- [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](inserir_link_para_seu_perfil_no_Twitter)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/pedro-soares-990400276/)
+- [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](twitter.com)
 - E-mail: seu_email@example.com
 
 ---
