@@ -5,7 +5,7 @@
 ## ADS e Desenvolvedor Web
 
 <!-- Slide de Imagens como Flyer do Perfil -->
-![Banner](inserir_url_da_imagem_aqui)
+![Banner](https://media.discordapp.net/attachments/1162859199127109635/1163304765233574008/Wms.png?ex=653f16fd&is=652ca1fd&hm=581dac568618438c1c3773f34a1adaddf579e9879f1f4f8765d11dc1d0678a80&=&width=511&height=627)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=weiner-rezcue98&show_icons=true&count_private=true&theme=dracula" alt="Estatísticas do GitHub">
